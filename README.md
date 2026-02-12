@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Omar 👋
+SOC-focused cybersecurity trainee interested in SIEM monitoring, log analysis, and vulnerability assessment.
 
-<!--
-**omarnegmm/omarnegmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- SIEM: Wazuh (Elastic Stack basics)
+- Vulnerability Scanning: Nmap, Nessus/OpenVAS
+- Operating Systems: Linux, Windows basics
+- Networking Fundamentals
+- Documentation & Reporting
 
-Here are some ideas to get you started:
+### Portfolio
+🔗 [Cybersecurity Portfolio](https://github.com/omarnegmm/cybersecurity-portfolio)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- LinkedIn: www.linkedin.com/in/omar-negm-89a2952b5
+- Email: onegm375@gmail.com
